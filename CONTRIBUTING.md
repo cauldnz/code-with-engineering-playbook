@@ -12,6 +12,11 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
+## Format Guidance
+
+Documents in the playbook are authored in [markdown](https://en.wikipedia.org/wiki/Markdown) and we follow the [markdownlint](https://github.com/DavidAnson/markdownlint) default style.
+*TODO:* We may want to consider snapshotting our linting style into the repo itself
+
 # Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
